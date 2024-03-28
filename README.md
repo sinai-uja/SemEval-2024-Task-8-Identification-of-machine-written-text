@@ -27,8 +27,6 @@ The dataset for the English monolingual task consists of 119,757 instances. In t
 
 Each instance includes the *text*, along with its corresponding *source* according to five categories: **Wikihow**, **Wikipedia**, **Reddit**, **Arxiv**, **Peerread**. In the multilingual task, we can find additional sources: **Bulgarian**, **Urdu**, **Indonesian** and **Chinese**. It also has a category that attributes the text to a specific large language model: **ChatGPT**, **Cohere**, **Bloomz**, **Davinci**, **Dolly**, or **Human** otherwise. The *gold label* is 1, if the text is machine-generated, and 0 otherwise.
 
-Translated with DeepL.com (free version)
-
 The data can be found at: https://github.com/mbzuai-nlp/SemEval2024-task
 
 ## System Description
