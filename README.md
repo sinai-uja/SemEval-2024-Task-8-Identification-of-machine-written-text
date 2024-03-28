@@ -14,7 +14,7 @@ Each instance includes the *text*, along with its corresponding *source* accordi
 
 ## System Description
 
-We use the XLM-RoBERTa-Large base as a language model, and we first assess its performance by fine-tuning the training data on it. Then, we evaluate the use of the perplexity as a classification signal, and the third one, which we submit to the shared-task, is based on the joint use of the resulting features of the fine-tuning phase and the perplexity score of each sentence.
+We use the XLM-RoBERTa-Large basis as a linguistic model, and first evaluate its performance by fine-tuning the training data on it. Next, we evaluate the use of perplexity as a classification cue, and the third, which we submit to the shared task, is based on the joint use of the features resulting from the fine-tuning phase and the perplexity score of each sentence. The system used in this repository is the Multimodal System,
 
 ![SemEvalv2](https://github.com/sinai-uja/SemEval-2024-Task-8-Identification-of-machine-written-text/assets/132881769/dc246629-18b1-45fd-9528-20d75eaafa27)
 
