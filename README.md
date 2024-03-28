@@ -23,9 +23,13 @@ Please use the following citation:
 
 The dataset is not available in this repository.
 
-The dataset for the monolingual English task consists of 119,757 training instances, complemented by another 5,000 evaluation instances. In the multilingual task, the corpora comprise a total of 172,417 instances, with an allocation of 4,000 instances for the evaluation phase. This multilingual dataset is composed of 77.48% English text, with Bulgarian as a secondary language. The rest of the training dataset also incorporates languages such as Chinese, Indonesian, and Urdu. In addition, the evaluation dataset includes texts in Russian, German, and Arabic.
+The dataset for the English monolingual task consists of 119,757 instances. In the multilingual task, the corpora comprise a total of 172,417 instances. This multilingual dataset consists of 77.48% English text.
 
-Each instance includes the *text*, along with its corresponding *source* according to five categories: **Wikihow**, **Wikipedia**, **Reddit**, **Arxiv**, **Peerread**. In the multilingual task, we can find additional sources: **Bulgarian**, **Urdu**, **Indonesian**, and **Chinese**. Also has a category that attributes the text to a specific large language model: **ChatGPT**, **Cohere**,  **Bloomz**, **Davinci**, **Dolly**, or **Human** in another case. The *gold label* is 1, if the text is machine-generated and 0 otherwise. The dataset presents an even distribution, with cases annotated as human or machine being approximately equal in the training and development corpora.
+Each instance includes the *text*, along with its corresponding *source* according to five categories: **Wikihow**, **Wikipedia**, **Reddit**, **Arxiv**, **Peerread**. In the multilingual task, we can find additional sources: **Bulgarian**, **Urdu**, **Indonesian** and **Chinese**. It also has a category that attributes the text to a specific large language model: **ChatGPT**, **Cohere**, **Bloomz**, **Davinci**, **Dolly**, or **Human** otherwise. The *gold label* is 1, if the text is machine-generated, and 0 otherwise.
+
+Translated with DeepL.com (free version)
+
+The data can be found at: https://github.com/mbzuai-nlp/SemEval2024-task
 
 ## System Description
 
