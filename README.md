@@ -37,3 +37,10 @@ In this code, the training of the system proposed in the competition is executed
 The code is structured to use an evaluation set while training and to adjust the training parameters as desired by the user.
 
 The training parameters are commented on using the default parameters by default.
+
+## Acknowledgements
+
+This work has been partially supported by projects
+CONSENSO (PID2021-122263OB-C21), MODERATES
+(TED2021-130145B-I00), SocialTOX (PDC2022-133146-
+C21) and FedDAP (PID2020-116118GA-I00) funded by MCIN/AEI/ 10.13039/501100011033 and by the “European Union NextGenerationEU/PRTR”.
