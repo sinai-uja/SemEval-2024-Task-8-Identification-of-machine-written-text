@@ -6,6 +6,19 @@ Abstract: Causation is a psychological tool of humans to understand the world an
 
 Contact person: Alberto José Gutiérrez Megías, agmegias@ujaen.es
 
+Please use the following citation:
+
+```
+@InProceedings{martinezCamara:2017:iwcs2017,
+  author    = {Alberto J. Guti{\'e}rrez, Alfonso and Eugenio},
+  title     = {Fine-tuning on Words and Perplexity as Features for Detecting Machine Written Text},
+  booktitle = {(to appear)},
+  month     = (to appear),
+  year      = {2024},
+  pages     = {(to appear)}
+}
+```
+
 ## Data
 
 The dataset is not available in this repository.
