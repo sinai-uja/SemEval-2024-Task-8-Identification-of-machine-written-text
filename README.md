@@ -2,7 +2,7 @@
 
 Code made for SemEval 2024 task 8. The task deals with the identification of the authorship of the text using perplexity and text as features.
 
-Abstract: Causation is a psychological tool of humans to understand the world and it is projected in natural language. Causation relates two events, so in order to understand the causal relation of those events and the causal reasoning of humans, the study of causality classification is required. We claim that the use of linguistic features may restrict the representation of causality, and dense vector spaces can provide a better encoding of the causal meaning of an utterance. Herein, we propose a neural network architecture only fed with word embeddings for the task of causality classification. Our results show that our claim holds, and we outperform the state-of-the-art on the AltLex corpus.
+>Abstract: Causation is a psychological tool of humans to understand the world and it is projected in natural language. Causation relates two events, so in order to understand the causal relation of those events and the causal reasoning of humans, the study of causality classification is required. We claim that the use of linguistic features may restrict the representation of causality, and dense vector spaces can provide a better encoding of the causal meaning of an utterance. Herein, we propose a neural network architecture only fed with word embeddings for the task of causality classification. Our results show that our claim holds, and we outperform the state-of-the-art on the AltLex corpus.
 
 Contact person: Alberto José Gutiérrez Megías, agmegias@ujaen.es
 
